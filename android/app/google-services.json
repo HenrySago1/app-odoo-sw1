@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489014842267",
+    "project_id": "temp-f8107",
+    "storage_bucket": "temp-f8107.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489014842267:android:f27f2f631bdf675064473e",
+        "android_client_info": {
+          "package_name": "com.campozanodevlab.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjD6B69JaCWqPNGQXgp2qGIjPEqNn65L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
